@@ -1,5 +1,5 @@
 flask
-BeautifulSoup
+bs4
 markdown
 flask_cors
 requests
