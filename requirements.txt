@@ -1,0 +1,6 @@
+flask 
+BeautifulSoup
+markdown
+flask_cors
+requests
+gunicorn
