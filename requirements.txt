@@ -3,5 +3,4 @@ bs4
 markdown
 flask_cors
 requests
-time
 gunicorn
